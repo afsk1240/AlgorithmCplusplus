@@ -1,8 +1,10 @@
-#include <stdio.h>
-
-int n, a, b, i;
-
-main() {
-	for (; i < 9; i++) scanf_s("%d", &n), a < n ? (a = n, b = i + 1) : 0;
-	printf("%d %d", a, b);
+#include<stdio.h>
+int main() {
+	int m = 0, a, r;
+	for (int i = 1; i <= 9; i++) {
+		scanf("%d", &a);
+		if (a > m)m = a, r = i;
+	}
+	printf("%d\n%d", m, r);
+	return 0;
 }
