@@ -45,5 +45,11 @@
     <ClCompile Include="pointerarrayEx1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointerExercise01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbyReference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
