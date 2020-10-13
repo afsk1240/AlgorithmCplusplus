@@ -99,5 +99,17 @@
     <ClCompile Include="VectorPrimaryMethod.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="VectorExample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="vectorExample2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vectorfind.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="vectorMatrix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
